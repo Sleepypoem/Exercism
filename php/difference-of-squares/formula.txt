@@ -1,0 +1,7 @@
+formula for sum of squares
+
+Σn2 = [n(n+1)(2n+1)]/6
+
+formula for sum of series
+
+Σn = [n(n+1)]/2
